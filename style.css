@@ -317,11 +317,11 @@ img {
 
 /* :: 3.5.0 Miscellaneous */
 .tooltip-inner {
-  background-color: #ef1b48;
+  background-color: #3b43e2;
 }
 
 .tooltip .arrow::before {
-  border-top-color: #ef1b48;
+  border-top-color: #3b43e2;
 }
 
 .bg-img {
@@ -401,13 +401,13 @@ img {
 }
 
 #scrollUp:hover {
-  background-color: #ef1b48;
+  background-color: #3b43e2;
   color: #ffffff;
 }
 
 /* :: 3.7.0 Newsbox Button */
 .newsbox-btn {
-  background-color: #ef1b48;
+  background-color: #3b43e2;
   -webkit-transition-duration: 500ms;
   transition-duration: 500ms;
   position: relative;
@@ -439,7 +439,7 @@ img {
 
 .newsbox-btn.btn-2:hover,
 .newsbox-btn.btn-2:focus {
-  background-color: #ef1b48;
+  background-color: #3b43e2;
   color: #ffffff;
 }
 
@@ -450,7 +450,7 @@ img {
 
 .newsbox-btn.btn-3:hover,
 .newsbox-btn.btn-3:focus {
-  background-color: #ef1b48;
+  background-color: #3b43e2;
   color: #ffffff;
 }
 
@@ -513,7 +513,7 @@ img {
 
 .header-area .newsbox-main-menu .classy-navbar .classynav ul li a:hover,
 .header-area .newsbox-main-menu .classy-navbar .classynav ul li a:focus {
-  color: #ef1b48;
+  color: #3b43e2;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -593,7 +593,7 @@ img {
   flex: 0 0 180px;
   max-width: 180px;
   width: 180px;
-  background-color: #ef1b48;
+  background-color: #3b43e2;
   height: 55px;
 }
 
@@ -706,7 +706,7 @@ img {
 
 .breaking-news-area .breaking-news-ticker .ticker ul li a:hover,
 .breaking-news-area .breaking-news-ticker .ticker ul li a:focus {
-  color: #ef1b48;
+  color: #3b43e2;
 }
 
 /* :: 6.0 Hero Area CSS */
@@ -796,7 +796,7 @@ img {
 
 .footer-area .footer-nav li a:hover,
 .footer-area .footer-nav li a:focus {
-  color: #ef1b48;
+  color: #3b43e2;
 }
 
 .footer-area .footer-social-info {
@@ -829,7 +829,7 @@ img {
 
 .footer-area .copywrite-text a:hover,
 .footer-area .copywrite-text a:focus {
-  color: #ef1b48;
+  color: #3b43e2;
 }
 
 /* :: 8.0 Footer Add Area */
@@ -920,7 +920,7 @@ img {
 
 .single-blog-post.style-1 .blog-content .post-title:hover,
 .single-blog-post.style-1 .blog-content .post-title:focus {
-  color: #ef1b48;
+  color: #3b43e2;
 }
 
 .single-blog-post.style-1:hover .blog-thumbnail img {
@@ -957,7 +957,7 @@ img {
 
 .single-blog-post.style-2 .blog-content .post-title:hover,
 .single-blog-post.style-2 .blog-content .post-title:focus {
-  color: #ef1b48;
+  color: #3b43e2;
 }
 
 .single-blog-post.style-2 .blog-content .post-author {
@@ -971,7 +971,7 @@ img {
 
 .single-blog-post.style-2 .blog-content .post-author:hover,
 .single-blog-post.style-2 .blog-content .post-author:focus {
-  color: #ef1b48;
+  color: #3b43e2;
 }
 
 .single-blog-post.style-2:hover {
@@ -980,7 +980,7 @@ img {
 }
 
 .single-blog-post.style-2:hover .blog-content .post-title {
-  color: #ef1b48;
+  color: #3b43e2;
 }
 
 .single-blog-post.style-3 .blog-thumbnail {
@@ -1001,7 +1001,7 @@ img {
   transform: translate(-50%, -50%);
   width: 63px;
   height: 63px;
-  background-color: #ef1b48;
+  background-color: #3b43e2;
   color: #ffffff;
   font-size: 24px;
   line-height: 63px;
@@ -1049,7 +1049,7 @@ img {
 
 .single-blog-post.style-3 .blog-content .post-title:hover,
 .single-blog-post.style-3 .blog-content .post-title:focus {
-  color: #ef1b48;
+  color: #3b43e2;
 }
 
 .single-blog-post.style-3 .blog-content .post-author {
@@ -1063,11 +1063,11 @@ img {
 
 .single-blog-post.style-3 .blog-content .post-author:hover,
 .single-blog-post.style-3 .blog-content .post-author:focus {
-  color: #ef1b48;
+  color: #3b43e2;
 }
 
 .single-blog-post.style-3:hover .blog-content .post-title {
-  color: #ef1b48;
+  color: #3b43e2;
 }
 
 .single-blog-post.style-4 .blog-thumbnail {
@@ -1109,11 +1109,11 @@ img {
 .single-blog-post.style-4 .blog-content .post-title:hover,
 .single-blog-post.style-4 .blog-content .post-title:focus {
   font-weight: 600;
-  color: #ef1b48;
+  color: #3b43e2;
 }
 
 .single-blog-post.style-4:hover .blog-content .post-title {
-  color: #ef1b48;
+  color: #3b43e2;
 }
 
 .single-blog-post.style-5 .blog-thumbnail {
@@ -1188,7 +1188,7 @@ img {
 .single-blog-post.style-5 .blog-content .post-title:hover,
 .single-blog-post.style-5 .blog-content .post-title:focus {
   font-weight: 600;
-  color: #ef1b48;
+  color: #3b43e2;
 }
 
 .single-blog-post.style-5 .blog-content .post-author {
@@ -1201,7 +1201,7 @@ img {
 }
 
 .single-blog-post.style-5:hover .blog-content .post-title {
-  color: #ef1b48;
+  color: #3b43e2;
 }
 
 .single-blog-post.style-6 .blog-thumbnail {
@@ -1222,7 +1222,7 @@ img {
   transform: translate(-50%, -50%);
   width: 44px;
   height: 44px;
-  background-color: #ef1b48;
+  background-color: #3b43e2;
   color: #ffffff;
   font-size: 18px;
   line-height: 44px;
@@ -1265,11 +1265,11 @@ img {
 .single-blog-post.style-6 .blog-content .post-title:hover,
 .single-blog-post.style-6 .blog-content .post-title:focus {
   font-weight: 600;
-  color: #ef1b48;
+  color: #3b43e2;
 }
 
 .single-blog-post.style-6:hover .blog-content .post-title {
-  color: #ef1b48;
+  color: #3b43e2;
 }
 
 .sidebar-area {
@@ -1372,7 +1372,7 @@ img {
 }
 
 .intro-news-filter .nav-tabs .nav-link.active {
-  color: #ef1b48;
+  color: #3b43e2;
 }
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
@@ -1449,7 +1449,7 @@ img {
 
 .catagory-featured-post .post-content a:hover,
 .catagory-featured-post .post-content a:focus {
-  color: #ef1b48;
+  color: #3b43e2;
 }
 
 .catagory-featured-post .post-content p {
@@ -1749,7 +1749,7 @@ img {
 .comment_area .comment-content .comment-meta .post-author:hover,
 .comment_area .comment-content .comment-meta .post-date:hover,
 .comment_area .comment-content .comment-meta .reply:hover {
-  color: #ef1b48;
+  color: #3b43e2;
 }
 
 .comment_area .comment-content .comment-meta .reply {
@@ -1791,7 +1791,7 @@ img {
 .featured-video-area .video-btn {
   width: 63px;
   height: 63px;
-  background-color: #ef1b48;
+  background-color: #3b43e2;
   color: #ffffff;
   font-size: 24px;
   line-height: 63px;
@@ -1828,8 +1828,7 @@ img {
 
 .video-slideshow {
   position: relative;
-  z-index: 5;
-  border-top: 2px solid #ef1b48;
+  background-color: #a9c9f0;
 }
 
 .video-slideshow::after {
@@ -1858,7 +1857,7 @@ img {
   margin-top: -20px;
   font-size: 18px;
   color: #ffffff;
-  background-color: #ef1b48;
+  background-color: #3b43e2;
   left: -20px;
   text-align: center;
   -webkit-transition-duration: 500ms;
@@ -1914,7 +1913,7 @@ img {
 
 .contact-content .contact-social-info a:hover,
 .contact-content .contact-social-info a:focus {
-  color: #ef1b48;
+  color: #5158db;
 }
 
 .contact-content .single-contact-info {
