@@ -1475,66 +1475,74 @@ img {
   }
 }
 
+/* Container adjustments */
 .post-details-title-area {
   position: relative;
   z-index: 1;
-  height: 500px;
   padding: 35px 4%;
-  background-color: #f0f4f8;
   margin: 0 20px 20px;
 }
 
+/* Responsive adjustments */
 @media only screen and (max-width: 767px) {
   .post-details-title-area {
-    height: 300px;
+    padding: 20px 4%;
   }
 }
 
-.post-details-title-area.bg-overlay::after {
-  background-color: rgba(0, 0, 0, 0.65);
-}
-
+/* Tag styles (if needed) */
 .post-details-title-area .post-content .tag {
-  position: relative;
-  z-index: 1;
-  margin-bottom: 0;
+  margin-bottom: 50px;
   height: 45px;
   min-width: 180px;
   background-color: #d66a0b;
-  color: #ffffff;
+  color: #0e0303;
   display: inline-block;
-  margin-bottom: 100px;
   text-align: center;
   -webkit-transform: skewX(-30deg);
   transform: skewX(-30deg);
 }
 
-@media only screen and (max-width: 767px) {
-  .post-details-title-area .post-content .tag {
-    margin-bottom: 50px;
-  }
-}
-
-.post-details-title-area .post-content .tag span {
-  position: absolute;
-  width: 100%;
-  left: 0;
-  font-size: 14px;
-  font-weight: 700;
-  line-height: 45px;
-  text-transform: uppercase;
-  -webkit-transform: skew(30deg);
-  transform: skew(30deg);
-}
-
+/* Title styles */
 .post-details-title-area .post-content .post-title {
   display: block;
-  color: #ffffff;
-  font-size: 72px;
-  line-height: 1.1;
+  color: #333333;
+  /* Updated color */
+  font-size: 48px;
+  /* Reduced size for better readability under the image */
+  line-height: 1.2;
   margin-bottom: 15px;
   font-weight: 700;
 }
+
+/* Responsive adjustments for title */
+@media only screen and (max-width: 767px) {
+  .post-details-title-area .post-content .post-title {
+    font-size: 36px;
+  }
+}
+
+/* Image styles */
+.post-details-title-area img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Date and author alignment */
+.post-details-title-area .post-content .d-flex {
+  margin-top: 15px;
+  font-size: 16px;
+  color: #666666;
+}
+
+/* Media query for smaller screens */
+@media only screen and (max-width: 767px) {
+  .post-details-title-area .post-content .d-flex {
+    font-size: 14px;
+  }
+}
+
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .post-details-title-area .post-content .post-title {
@@ -1562,7 +1570,7 @@ img {
 .post-details-title-area .post-content .post-date {
   display: block;
   font-size: 14px;
-  color: #ffffff;
+  color: #140e0e;
 }
 
 @media only screen and (max-width: 767px) {
